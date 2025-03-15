@@ -19,3 +19,4 @@ var a=()=>{
     console.log("Myself Abhijit");
 }
 a();
+console.log("Learning git is fun");
